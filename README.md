@@ -20,6 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+* [X] Improved UI/UX of app
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
