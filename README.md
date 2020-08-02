@@ -24,17 +24,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="link" width=200><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-Most of the programming went fine, but I had a bit of trouble figuring out how to edit the elements in the list (i.e. the color, size, etc.).
+Common Bugs: (eventually solved)
+* Editting the elements in the list (i.e. the color, size, etc.)
+* 
 
 ## License
 
