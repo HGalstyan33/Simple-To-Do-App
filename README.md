@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://imgur.com/In9NtXP" width=200><br>
+<img src="https://imgur.com/PhuHK5p.gif" width=200><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
