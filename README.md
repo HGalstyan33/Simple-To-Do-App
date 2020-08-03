@@ -31,9 +31,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Common Bugs: (eventually solved)
+Unsolved Bugs:
 * Editting the elements in the list (i.e. the color, size, etc.)
-* 
 
 ## License
 
