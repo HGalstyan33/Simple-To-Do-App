@@ -21,11 +21,11 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] Improved UI/UX of app
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Added bullet points
 
 ## Video Walkthrough
 
-<img src="link" width=200><br>
+<img src="https://imgur.com/In9NtXP" width=200><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
